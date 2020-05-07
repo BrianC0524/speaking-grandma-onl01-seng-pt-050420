@@ -13,15 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma (phrase)
-  phrase = "I love you grandma!"
-  
-  if phrase == phrase.upcase
-    puts "I LOVE YOU TOO PUMPKIN!"
-  elsif phrase == "WHAT DID YOU EAT TODAY?" || phrase == "WHAT?"
-    puts "NO, NOT SINCE 1938!"
-  elsif phrase == "Hi!" || phrase == "Hi Nana, how are you?"
-    puts "HUH?! SPEAK UP SONNY!"
-  else
-    puts "HUH?! SPEAK UP SONNY!"
-  end
+   
 end
